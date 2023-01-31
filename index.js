@@ -29,7 +29,7 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'Which licenses did you use?',
-        choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'Other', 'None'],
+        choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'None'],
     },
     {
         type: 'input',
@@ -43,12 +43,12 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'questions',
+        name: 'github',
         message: 'What is your github username?',
     },
     {
         type: 'input',
-        name: 'questions',
+        name: 'email',
         message: 'What is your email?',
     },
 ];
