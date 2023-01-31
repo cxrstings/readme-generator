@@ -70,10 +70,10 @@ function generateMarkdown(data) {
 
   ${data.tests}
 
-  ## Credit
+  ## Questions
 
   ${data.github}
-  
+
   ${data.email}
 `;
 }
