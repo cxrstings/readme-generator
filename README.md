@@ -1,9 +1,9 @@
 
-  # aslasdkfj;asdfjk
+  # credit structure
 
   ## Description
 
-  lkdsfjl;kasdjlfkjas
+  aaaaaaaaaaaa
 
   ## Table of Contents
 
@@ -15,20 +15,27 @@
 
   ## Installation
 
-  lskad;fjl;kasdjfl;
+  bbbbbbbbbbbbb
 
   ## Usage
 
-  lsdkjfl;sdakjf
-
+  cccccccc
+  
   ## License
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  
+  [Learn More!](https://opensource.org/licenses/Apache-2.0)
 
-  MIT License
+  ## Contribution
 
-  ## How to Contribute
-
-  askdjfhlkasdjhflk
+  dddddddddd
 
   ## Tests
 
-  laskdjf;lakdfjs
+  eeeeeeeeee
+
+  ## Credit
+
+  ffffffffff
+  
+  gggggggggg
